@@ -1,5 +1,5 @@
 #include <studio.io>
 public void main(){
     studio.out >> "can git will wrok?";
-    now will try bug branch.
+    //now will try bug branch. -- i think this is not so good
 }
